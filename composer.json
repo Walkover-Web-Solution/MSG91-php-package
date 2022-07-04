@@ -1,7 +1,7 @@
 {
     "name": "msg91/campaign",
     "description": "Official PHP Package for integrating MSG91 APIs for sending SMS, Email, Voice and Whatsapp communication. Easy to install and integrate to run marketing campaigns, transactional updates etc.",
-    "keywords": ["SMS", "Email", "Whatsapp", "otp", "api", "msg91", "communication", "2FA", "authentication", "php", "marketing", "campaign", "bulksms"],
+    "keywords": ["SMS", "Email", "Whatsapp", "otp", "api", "msg91", "communication", "2FA", "Authentication", "php", "marketing", "campaign", "bulksms"],
     "type": "library",
     "license": "MIT",
     "authors": [
