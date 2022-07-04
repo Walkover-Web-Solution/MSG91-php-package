@@ -13,7 +13,6 @@
     "support": {
         "email": "support@msg91.com"
     },
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Campaign\\": "src"
