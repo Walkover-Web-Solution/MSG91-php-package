@@ -18,8 +18,7 @@
             "Msg91/Campaign\\": "src"
         }
     },
-    "minimum-stability": "dev",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": ">=7.1.0"
     }
