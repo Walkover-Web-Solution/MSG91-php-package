@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Campaign\\": "src"
+            "Msg91/Campaign\\": "src"
         }
     },
     "minimum-stability": "dev",
