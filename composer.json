@@ -14,6 +14,9 @@
         "email": "support@msg91.com"
     },
     "autoload": {
+        "files": [
+            "src/Client.php"  
+        ],
         "psr-4": {
             "Msg91/Campaign\\": "src"
         }
