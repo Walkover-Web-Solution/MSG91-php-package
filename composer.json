@@ -15,11 +15,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Campaign\\": "src"
+            "Msg91\\Campaign\\": "src"
         }
     },
     "minimum-stability": "dev",
-    "version": "1.0.0",
     "require": {
         "php": ">=7.1.0"
     }
