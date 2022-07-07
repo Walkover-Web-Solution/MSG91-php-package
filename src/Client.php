@@ -71,6 +71,6 @@ class Client
      */
     public function runCampaign($campaignSlug, $requestBody)
     {
-        return $this->_rest->call("POST", "campaigns/" . $campaignSlug . "/run", $this->_authKey, [], $requestBody);
+        return $this->_rest->call("POST", "campaigns/" . $campaignSlug . "/run?pluginsource=700", $this->_authKey, [], $requestBody);
     }
 }
